@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Switch Push Button")(type KiCad)(uri "D:/Sync/Projects/Hobby PCB Designs/PCB Tic Tac Toe/1825910-6")(options "")(descr ""))
+  (lib (name LM78)(type KiCad)(uri "D:/Sync/Projects/Hobby PCB Designs/PCB Tic Tac Toe/LM78L05ACMX_NOPB")(options "")(descr ""))
+)

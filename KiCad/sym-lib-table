@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name LM78)(type Legacy)(uri "C:/Users/ryanw/Nextcloud/Projects/Hobby PCB Designs/PCB Tic Tac Toe/LM78L05ACMX_NOPB/LM78L05ACMX_NOPB.lib")(options "")(descr ""))
+  (lib (name TickTacToe-rescue)(type Legacy)(uri ${KIPRJMOD}/TickTacToe-rescue.lib)(options "")(descr ""))
+)
